@@ -1,1 +1,1 @@
-# revou_mini-course
+# Revou Mini Course - Data Analytics
